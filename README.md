@@ -2,13 +2,13 @@
    
  
 
-## - Daily Reading Assignment 1
+   ## - Daily Reading Assignment 1
     - note details
   
-## - Daily Reading Assignment 2
+   ## - Daily Reading Assignment 2
     - note details 
 
-## - Daily Reading Assignment 3
+   ## - Daily Reading Assignment 3
     - note details
 
 ## - Daily Reading Assignment 4
