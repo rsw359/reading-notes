@@ -1,5 +1,5 @@
 # Contents
-   ##  Daily Reading Assignment 1
+    Daily Reading Assignment 1
     - note details
   
    ## Daily Reading Assignment 2
