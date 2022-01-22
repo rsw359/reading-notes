@@ -1,9 +1,9 @@
 # Contents
-    * Daily Reading Notes 1
-          -Details
-          
-    * Daily Reading Notes 2
-          -Details
+   1 Daily Reading Notes
+      Details
+   2 Daily Reading Notes
+      Details
+    
    
 
 
