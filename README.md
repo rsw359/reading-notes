@@ -1,41 +1,49 @@
 # Contents
-   1 Daily Reading Not
-
-   2 Daily Reading Notes
-      Details
-    
    
+ 
 
-
-## -Daily Reading Assignment 1
-     - note details
+## - Daily Reading Assignment 1
+    - note details
   
-## -Daily Reading Assignment 2
-      - note details 
+## - Daily Reading Assignment 2
+    - note details 
 
-## -Daily Reading Assignment 3
+## - Daily Reading Assignment 3
+    - note details
 
-## -Daily Reading Assignment 4
+## - Daily Reading Assignment 4
+     - note details
+     
+## - Daily Reading Assignment 5
+     - note details
+     
+## - Daily Reading Assignment 6
+     - note details
 
-## -Daily Reading Assignment 5
+## - Daily Reading Assignment 7
+     - note details
 
-## -Daily Reading Assignment 6
+## - Daily Reading Assignment 8
+     - note details
 
-## -Daily Reading Assignment 7
+## - Daily Reading Assignment 9
+     - note details
 
-## -Daily Reading Assignment 8
+## - Daily Reading Assignment 10
+     - note details
 
-## -Daily Reading Assignment 9
+## - Daily Reading Assignment 11
+    - note details
 
-## -Daily Reading Assignment 10
+## - Daily Reading Assignment 12
+    - note details
 
-## -Daily Reading Assignment 11
+## - Daily Reading Assignment 13
+    - note details
 
-## -Daily Reading Assignment 12
+## - Daily Reading Assignment 14
+    - note details
 
-## -Daily Reading Assignment 13
-
-## -Daily Reading Assignment 14
-
-## -Daily Reading Assignment 15
+## - Daily Reading Assignment 15
+    - note details
 
