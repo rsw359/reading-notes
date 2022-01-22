@@ -1,7 +1,6 @@
 # Contents
-   1 Daily Reading Notes
-      Details
-  
+   1 Daily Reading Not
+
    2 Daily Reading Notes
       Details
     
@@ -12,6 +11,7 @@
      - note details
   
 ## -Daily Reading Assignment 2
+      - note details 
 
 ## -Daily Reading Assignment 3
 
