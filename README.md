@@ -1,4 +1,10 @@
 # Contents
+    * Daily Reading Notes 1
+          -Details
+          
+    * Daily Reading Notes 2
+          -Details
+   
 
 
 ## -Daily Reading Assignment 1
