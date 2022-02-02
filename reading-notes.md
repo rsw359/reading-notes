@@ -10,6 +10,7 @@ permalink: /reading-notes/
 
 # Contents
   
+  ## ***Code 201 Reading Notes***
   
   Daily Reading [Assignment 1](class-01.md)
   
