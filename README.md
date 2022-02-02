@@ -2,6 +2,8 @@ layout: page
 title: "Reading Notes"
 permalink: /reading-notes/
 
+### The Purpose of this site is to document knowledge gained throughout the Code Fellows courses. This will include reading-notes, code snippets, project notes, and general musings.
+
 # Contents
   
   
