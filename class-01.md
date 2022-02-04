@@ -1,32 +1,27 @@
 # Class 01 *Reading Notes*
 
-# *HTML & CSS*
+## *HTML & CSS*
 
 ## Chap. 1 *Html Structures*
 
-<details>
-<summary>- Html pages are text documents that contain elements denoted by tags</summary>
+- Html pages are text documents that contain elements denoted by tags</summary>
 
         * Tags use angled brackets that describe the content writen between them. An opening <"_"> and closing </"_"> tag is usually necessary
         
         * The tags often contain attributes that can help with styling and identification of elements
-</details>
-
-#
 
 ## Chap. 8 *Extra Markup*
 
-<details>
-   <summary> - There have been several different versions of HTML. Attrributes and Elements vary</summary>
+    - There have been several different versions of HTML. Attrributes and Elements vary</summary>
         - HTML4, XHTML, HTML5(current)
         - Doctype at the tope of the page indicates the version (this is not viewable by the user)
 
-### <u>Comments</u>
+### Comments
 
     - HTML comments can are indicated by <!--"text"-->
         - Can be used to give helpful information about the code that follows, or to hide code from the browser 
 
-### <u>Attributes</u>
+### Attributes
 
 #### *Global Attributes - ID & Class*
 
@@ -34,7 +29,7 @@
     - Allows for identification for use in CSS or JavaScript
     - Useable on any element in HTML (global attributes)
 
-### <u>Elements</u>
+### Elements
 
     - Block Elements always start on a new line
         - <h>, <p>, <ul>, <li>
@@ -45,21 +40,18 @@
     - Iframes are used to imbed content in the page (like maps)\
     - Meta is used to describe the page content to search engines 
 
-### <u>Escape Characters</u>
+### Escape Characters
 
     - Characters that have a purpose in the syntax of the code have a specific code assigned to them for use in the content of a page
         - < = &lt
         - " = &ldquo  (left quote)  
         - " = &rdquo (right quote)   
-</details>
-
-#
 
 ## Chap. 17 *HTML 5*
 
-<details><summary>HTML 5 is the current version of HTML in 2022</summary>
+HTML 5 is the current version of HTML in 2022</summary>
 
-### <u>HTML 5 Elements</u>
+### HTML 5 Elements
 
     - Headers and footers (top and bottom elements of a page) can include important information for the page
     - Nav is used for primary site navigation; Can be included in the header or footer of a page
@@ -70,14 +62,9 @@
 
 #### Note! : Blocks of text can be wrapped in the link attribute to turn the entire block into a link
 
-</details>
-<br>
-
-#
-
 ## Chap. 18 *Process & Design*
 
-<details><summary>Principle Ideas for the Design Process</summary>
+Principle Ideas for the Design Process</summary>
 
 ## *Who:*
 
@@ -108,7 +95,7 @@
 
 #
 
-## <u>*Sitemaps*</u>
+## *Sitemaps*
 
     - Drawing a diagram to visualize the layout of a webpage can be helpful
                  [Main]
@@ -117,19 +104,16 @@
         |   |      |    |     |
       [So] [On] [And] [So] [Forth]
 
-## <u>*Wireframes*</u>
+## *Wireframes*
 
         - These are a sketch of key info as it will apear on the site.
             - Should not contain style info - these are only a representation of the heirarchy of content
             - CAN be shown to clients to insure that all the desired functions are present
 
-<details>
- <summary>  *Online wireframe tools are available</summary>
+   *Online wireframe tools are available</summary>
     *see page 463 in HTML and CSS by Jon Duckett
-</details>
-<br>
 
-## <u>*Design Principles*</u>
+## *Design Principles*
 
 ### *Visual Hierachy:*
 
@@ -153,18 +137,10 @@
         - Interactive: responding to user interation, i.e mouse hovering
         - Consistent in Style
 
-</details>
-<br>
+## *JavaScript and JQuery*
 
-#
-
-#
-
-# *JavaScript and JQuery*
-
-
-## *Introduction*
-<details><summary>JavaScript Makes The Web More Interactive</summary>
+ *Introduction*
+JavaScript Makes The Web More Interactive</summary>
 
     - JavaScript makes webpages more interactive by allowing for
         
@@ -172,22 +148,19 @@
         - Modification of content in an HTML page 
         - Specification of program rules by using scripts
         - Reaction to specified events such as a buttonpress, cursor behavior, intervals of time, etc.
-</details>
-
-#
 
 ## Chap. 1 *The ABC of Programming*
 
-<details><summary>What Are Scripts and How Do I Write Them</summary>
+What Are Scripts and How Do I Write Them</summary>
 
-### <u>Scripts</u>
+### Scripts
 
     - A Script is a series of instructions that a computer can follow to accomplish a task or set of tasks
         - Computers can only understand scripts that use vocabulary they can understand
         - Computers can only understand scripts written using the correct syntax
         - Computers follow instructins in order, so the order of tasks is important
 
-### <u>How Do I write a script?</u>
+### How Do I write a script?
 
 #### *Objects and Properties*
 
@@ -208,7 +181,7 @@
 | Color: Black           |
 | Dopeness Scale: EXTRA DOPE|  |
 
-### <u>Methods</u>
+### Methods
 
     - Methods contain the instructions that make the interaction with objects possible 
         - Methods tell the computer what to do with the object and can contain lots of instructions
