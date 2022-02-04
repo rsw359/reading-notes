@@ -4,7 +4,7 @@
 
 ## Chap. 1 *Html Structures*
 
-- Html pages are text documents that contain elements denoted by tags</summary>
+- Html pages are text documents that contain elements denoted by tags
 
         * Tags use angled brackets that describe the content writen between them. An opening <"_"> and closing </"_"> tag is usually necessary
         
@@ -49,7 +49,7 @@
 
 ## Chap. 17 *HTML 5*
 
-HTML 5 is the current version of HTML in 2022</summary>
+HTML 5 is the current version of HTML in 2022
 
 ### HTML 5 Elements
 
@@ -64,7 +64,7 @@ HTML 5 is the current version of HTML in 2022</summary>
 
 ## Chap. 18 *Process & Design*
 
-Principle Ideas for the Design Process</summary>
+Principle Ideas for the Design Process
 
 ## *Who:*
 
@@ -78,14 +78,14 @@ Principle Ideas for the Design Process</summary>
         - What are the user's motivations and goals 
         - Use the imaginary visitors as examples 
 
-### *What:*
+## *What:*
 
     - Determine the most relevant information for the users
     - Prioritize levels of information > identify ESSENTIAL and NON-ESSENTIAL info 
       
        * If users don't view the site as relevant, they will move on
 
-### *How:*
+## *How:*
 
     - How often will a user visit the site?
     - How often does the site need to be updated to stay relevant?
@@ -93,7 +93,7 @@ Principle Ideas for the Design Process</summary>
        
         * These things will vary depending on the part of the site in question
 
-#
+
 
 ## *Sitemaps*
 
@@ -110,7 +110,7 @@ Principle Ideas for the Design Process</summary>
             - Should not contain style info - these are only a representation of the heirarchy of content
             - CAN be shown to clients to insure that all the desired functions are present
 
-   *Online wireframe tools are available</summary>
+   *Online wireframe tools are available
     *see page 463 in HTML and CSS by Jon Duckett
 
 ## *Design Principles*
@@ -140,7 +140,7 @@ Principle Ideas for the Design Process</summary>
 ## *JavaScript and JQuery*
 
  *Introduction*
-JavaScript Makes The Web More Interactive</summary>
+JavaScript Makes The Web More Interactive
 
     - JavaScript makes webpages more interactive by allowing for
         
@@ -151,7 +151,7 @@ JavaScript Makes The Web More Interactive</summary>
 
 ## Chap. 1 *The ABC of Programming*
 
-What Are Scripts and How Do I Write Them</summary>
+What Are Scripts and How Do I Write Them
 
 ### Scripts
 
@@ -162,7 +162,7 @@ What Are Scripts and How Do I Write Them</summary>
 
 ### How Do I write a script?
 
-#### *Objects and Properties*
+## *Objects and Properties*
 
     - Objects are represesetaions of real things
         - They can have their own:
@@ -179,10 +179,10 @@ What Are Scripts and How Do I Write Them</summary>
 | Maker: BMC             |
 | Gears: 11 Speed        |
 | Color: Black           |
-| Wheels: Mavic
+| Wheels: Mavic          |
 | Dopeness Scale: EXTRA DOPE|  |
 
-### Methods
+## Methods
 
     - Methods contain the instructions that make the interaction with objects possible 
         - Methods tell the computer what to do with the object and can contain lots of instructions
