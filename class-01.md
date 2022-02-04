@@ -4,7 +4,7 @@
 
 ## Chap. 1 *Html Structures*
 
-- Html pages are text documents that contain elements denoted by tags
+       - Html pages are text documents that contain elements denoted by tags
 
         * Tags use angled brackets that describe the content writen between them. An opening <"_"> and closing </"_"> tag is usually necessary
         
