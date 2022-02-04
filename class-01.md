@@ -179,6 +179,7 @@ What Are Scripts and How Do I Write Them</summary>
 | Maker: BMC             |
 | Gears: 11 Speed        |
 | Color: Black           |
+| Wheels: Mavic
 | Dopeness Scale: EXTRA DOPE|  |
 
 ### Methods
