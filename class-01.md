@@ -115,7 +115,7 @@ Principle Ideas for the Design Process
 
 ## *Design Principles*
 
-### *Visual Hierachy:*
+### *Visual Hierarchy:*
 
     - Helps to guide the viewer using:
         - SIze: large elements that draw the users attention
@@ -134,7 +134,7 @@ Principle Ideas for the Design Process
     - Primary navigation should be:
         - Concise: quick and easy to read
         - Limited in the number of options 
-        - Interactive: responding to user interation, i.e mouse hovering
+        - Interactive: responding to user interaction, i.e mouse hovering
         - Consistent in Style
 
 ## *JavaScript and JQuery*
@@ -158,13 +158,13 @@ What Are Scripts and How Do I Write Them
     - A Script is a series of instructions that a computer can follow to accomplish a task or set of tasks
         - Computers can only understand scripts that use vocabulary they can understand
         - Computers can only understand scripts written using the correct syntax
-        - Computers follow instructins in order, so the order of tasks is important
+        - Computers follow instructions in order, so the order of tasks is important
 
 ### How Do I write a script?
 
 ## *Objects and Properties*
 
-    - Objects are represesetaions of real things
+    - Objects are representaions of real things
         - They can have their own:
             * Properties
             * Events
@@ -191,7 +191,7 @@ What Are Scripts and How Do I Write Them
 
 Console.log(value)
 
-- the Object is the Console
+- the object is the Console
 - the period is called the member operator
 - log is the method: tells the computer to log, or write the following value to the console
 - the value is what should be logged to the console.  
