@@ -93,8 +93,6 @@ Principle Ideas for the Design Process
        
         * These things will vary depending on the part of the site in question
 
-
-
 ## *Sitemaps*
 
     - Drawing a diagram to visualize the layout of a webpage can be helpful
