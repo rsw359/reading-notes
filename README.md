@@ -18,14 +18,14 @@ permalink: /reading-notes/
 * HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 * HTML Chapter 18: “Process & Design” (pp.452-475)
   
-* Daily Reading [Assignment] (reading-notes/class-02.md)
+* Daily Reading [Assignment 2](reading-notes/class-02.md)
   
 * HTML & CSS: Chapter 2: “Text” (pp.40-61)
 * HTML & CSS: Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
 * JavaScript & JQuery: Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
 * JavaScript & JQuery:Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
 
-   Daily Reading [Assignment] (reading-notes/class-03.md)
+   Daily Reading [Assignment 3](reading-notes/class-03.md)
   
 * HTML & CSS: Chapter 3: “Lists” (pp.62-73)
 * HTML & CSS: Chapter 13: “Boxes” (pp.300-329)
