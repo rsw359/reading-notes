@@ -5,23 +5,22 @@
 ## Chap. 3 *Lists*
 
 There are 3 kinds of lists
-    - Ordered lists <ol> ordered by number
-    - Unordered lists <ul> not ordered with bullets
-        - List items are nested using the <li> tag for each item
-    - Definition lists <dl> 
-        - nested definition terms <dt>
-        -nested definitions <dd>
-
+    - Ordered lists `<ol>` ordered by number
+    - Unordered lists `<ul>` not ordered with bullets
+        - List items are nested using the `<li>` tag for each item
+    - Definition lists `<dl>`
+        - nested definition terms `<dt>`
+        - nested definitions `<dd>`
 
 ## Chap. 13 *Boxes*
 
-CSS treats HTML elements as if they live in their own individual box
-    - The width and height of the boxes can be controlled by percentage and pixels, among other methods
+- CSS treats HTML elements as if they live in their own individual box
+  - The width and height of the boxes can be controlled by percentage and pixels, among other methods
     -If content is too large to fit into the box, the overflow property can be used to instruct the browser how to display the content
-    - Every box has three properties that can be used to style its appearance:
-        -A border that exists outside the box
-        - Margins that sit outsidre the border
-        - Padding between the border and the content within
+  - Every box has three properties that can be used to style its appearance:
+        - A border that exists outside the box
+    - Margins that sit outsidre the border
+    - Padding between the border and the content within
             *These can be displayed with various styles and colors in CSS
             *There are inline and block properties that can change the behavior of the element
             *Visibility can also be manipulated using the visibility property
