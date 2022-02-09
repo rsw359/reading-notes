@@ -4,13 +4,14 @@
 
 ## Chap. 3 *Lists*
 
-There are 3 kinds of lists
-    - Ordered lists `<ol>` ordered by number
-    - Unordered lists `<ul>` not ordered with bullets
-        - List items are nested using the `<li>` tag for each item
-    - Definition lists `<dl>`
-        - nested definition terms `<dt>`
-        - nested definitions `<dd>`
+There are 3 kinds of lists:
+
+- Ordered lists `<ol>` ordered by number
+- Unordered lists `<ul>` not ordered with bullets
+  - List items are nested using the `<li>` tag for each item
+- Definition lists `<dl>`
+  - nested definition terms `<dt>`
+  - nested definitions `<dd>`
 
 ## Chap. 13 *Boxes*
 
