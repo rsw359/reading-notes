@@ -31,13 +31,17 @@ permalink: /reading-notes/
 * HTML & CSS: Chapter 13: “Boxes” (pp.300-329)
 * JavaScript & JQuery: Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
 
-   Daily Reading Assignment 4
+    Daily Reading [Assignment 4](reading-notes/class-04.md)
 
-* note details
+* Chapter 4: Ch.4 “Links” (pp.74-93)
+* Chapter 15: “Layout” (pp.358-404)
 
-   Daily Reading Assignment 5
+   Daily Reading [Assignment 5](reading-notes/class-05.md)
 
-* note details
+* Chapter 5: “Images” (pp.94-125)
+* Chapter 11: “Color” (pp.246-263)
+* Chapter 12: “Text” (pp.264-299)
+* Jpg vs Png vs Gif
 
    Daily Reading Assignment 6
 
