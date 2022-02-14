@@ -43,9 +43,11 @@ permalink: /reading-notes/
 * Chapter 12: “Text” (pp.264-299)
 * Jpg vs Png vs Gif
 
-   Daily Reading Assignment 6
+   Daily Reading Assignment 6[Assignment 6](reading-notes/class-06.md)
 
-* note details
+* Chapter 3: “Object Literals” (pp.100-105)
+* Chapter 5: “Document Object Model” (pp.183-242)
+* What’s the difference between primitive values and object references in JavaScript?
 
    Daily Reading Assignment 7
 
