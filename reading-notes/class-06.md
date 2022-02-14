@@ -44,4 +44,22 @@
 - Methods that find elements in the Dom tree are called Dom Queries
 - The Dom Tree can inspected in browsers
 
-### These Notes WIll be further updated 
+### These Notes WIll be further updated
+
+## What’s the difference between primitive values and object references in JavaScript?
+
+- (information taken from <https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b>)
+
+- There are 8 types of data in JavaScript:
+  - Boolean
+  - Null
+  - Undefined
+  - Number
+  - BigInt
+  - String
+  - Symbol
+  - Objects
+  (arrays and functions are objects)
+
+  - Variables set to Primitive Values contain actual values, and are immutable or unchangeable
+  - Variables set to Object References just contain references (or memory addresses) and are mutable.
