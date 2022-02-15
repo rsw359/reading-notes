@@ -49,9 +49,11 @@ permalink: /reading-notes/
 * Chapter 5: “Document Object Model” (pp.183-242)
 * What’s the difference between primitive values and object references in JavaScript?
 
-   Daily Reading Assignment 7
+   Daily Reading Assignment 7[Assignment 7](reading-notes/class-07.md)
 
-* note details
+* HTML Chapter 6: “Tables” (pp.126-145)
+* Js Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+
 
    Daily Reading Assignment 8
 
