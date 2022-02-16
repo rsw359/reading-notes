@@ -54,10 +54,9 @@ permalink: /reading-notes/
 * HTML Chapter 6: “Tables” (pp.126-145)
 * Js Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 
+   Daily Reading Assignment 8[Assignment 7](reading-notes/class-07.md)
 
-   Daily Reading Assignment 8
-
-* note details
+* CSS Layout + Reread of Html/CSS Chapter 15
 
    Daily Reading Assignment 9
 
