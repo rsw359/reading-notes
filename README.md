@@ -54,15 +54,17 @@ permalink: /reading-notes/
 * HTML Chapter 6: “Tables” (pp.126-145)
 * Js Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 
-   Daily Reading Assignment 8[Assignment 7](reading-notes/class-07.md)
+   Daily Reading Assignment 8[Assignment 8](reading-notes/class-08.md)
 
 * CSS Layout + Reread of Html/CSS Chapter 15
 
-   Daily Reading Assignment 9
+   Daily Reading Assignment 9[Assignment 9](reading-notes/class-09.md)
 
-* note details
+* Html/CSS: Chapter 7: “Forms” (p.144-175)
+* Chapter 14: “Lists, Tables & Forms” (pp.330-357)
+* JS: Chapter 6: “Events” (pp.243-292)
 
-   Daily Reading Assignment 10
+ Daily Reading Assignment 10
 
 * note details
 
