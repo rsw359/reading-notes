@@ -64,9 +64,9 @@ permalink: /reading-notes/
 * Chapter 14: “Lists, Tables & Forms” (pp.330-357)
 * JS: Chapter 6: “Events” (pp.243-292)
 
- Daily Reading Assignment 10
+ Daily Reading Assignment 10[Assignment 10](reading-notes/class-10.md)
 
-* note details
+* Javascript/Jquery: Chapter 10: Debugging
 
    Daily Reading Assignment 11
 
