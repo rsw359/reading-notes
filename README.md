@@ -68,12 +68,12 @@ permalink: /reading-notes/
 
 * Javascript/Jquery: Chapter 10: Debugging
 
-   Daily Reading Assignment 11[Assignment 11](reading-notes/class-10.md)
+   Daily Reading Assignment 11[Assignment 11](reading-notes/class-11.md)
 
 * Chapter 16: “Images” (pp.406-427)
 * Chapter 19: “Practical Information” (476-492)
 
-   Daily Reading Assignment 12
+   Daily Reading Assignment 12[Assignment 12](reading-notes/class-12.md)
 
 * note details
 
