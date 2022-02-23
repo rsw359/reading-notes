@@ -75,11 +75,11 @@ permalink: /reading-notes/
 
    Daily Reading Assignment 12[Assignment 12](reading-notes/class-12.md)
 
-* note details
+* Charts
 
-   Daily Reading Assignment 13
+   Daily Reading Assignment 13[Assignment 13](reading-notes/class-13.md)
 
-* note details
+* Local Storage
 
    Daily Reading Assignment 14
 
