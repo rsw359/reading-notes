@@ -82,8 +82,10 @@ permalink: /reading-notes/
 * Local Storage
 
    Daily Reading Assignment 14[Assignment 14](reading-notes/class-14.md)
+   Daily Reading Assignment 14b[Assignment 14b](reading-notes/class-14b.md)
 
-CSS Transitions and Animations
+* CSS Transitions and Animations
+* Google and Psycological Safety
 
    Daily Reading Assignment 15
 
