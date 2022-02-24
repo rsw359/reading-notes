@@ -81,9 +81,9 @@ permalink: /reading-notes/
 
 * Local Storage
 
-   Daily Reading Assignment 14
+   Daily Reading Assignment 14[Assignment 14](reading-notes/class-14.md)
 
-* note details
+CSS Transitions and Animations
 
    Daily Reading Assignment 15
 
