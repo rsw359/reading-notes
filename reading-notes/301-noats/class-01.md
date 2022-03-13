@@ -29,11 +29,17 @@
   * "Props" is short for properties, which are objects used to pass data between parent and child
 
 * How are props used in React?
+  * Props are used to pass info from parent components to child components
   1. Create a parent component
   2. Pass data as a "prop"
   3. Render the prop data
 
 * What is the flow of props?
   * The flow of props is uni-directional, from parent to child
+
+## Things I would like to know more about
+
+* What is the benefit of using props?
+  * It appears that you still have to manually change the data anyway, so how does this save time? I suppose you could implement this in some sort of loop to iterate on the data contained in the prop...
 
 * Information taken from : <https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm> & <https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0>
