@@ -81,14 +81,12 @@ perma301-noats/class-01: /reading-notes/
 
 * Local Storage
 
-### Daily Reading Assignment 14[Assignment 14](201-noats/class-14.md)### Daily Reading Assignment 14b[Assignment 14b](201-noats/class-14b.md)
+### Daily Reading Assignment 14[Assignment 14](201-noats/class-14.md)
+
+### Daily Reading Assignment 14b[Assignment 14b](201-noats/class-14b.md)
 
 * CSS Transitions and Animations
 * Google and Psycological Safety
-
-### Daily Reading Assignment 15
-
-* note details
 
 ## ***Code 301 Reading Notes***
 
