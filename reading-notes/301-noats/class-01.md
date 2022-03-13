@@ -40,6 +40,6 @@
 ## Things I would like to know more about
 
 * What is the benefit of using props?
-  * It appears that you still have to manually change the data anyway, so how does this save time? I suppose you could implement this in some sort of loop to iterate on the data contained in the prop...
+  * It appears that you still have to manually change the data in the parent component, so how does this save time? I suppose you could implement this in some sort of loop to iterate on the data contained in the prop...
 
 * Information taken from : <https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm> & <https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0>
