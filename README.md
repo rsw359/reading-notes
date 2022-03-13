@@ -10,7 +10,7 @@ permalink: /reading-notes/
   
 ## ***Code 201 Reading Notes***
   
-  Daily Reading [Assignment 1](https://github.com/rsw359/rsw359.github.io/blob/main/201%20noats/class-01.md)
+  Daily Reading [Assignment 1](201%20noats/class-01.md)
   
 * Introduction (pp.2-11)
 * HTML Chapter 1: “Structure” (pp.12-39)
