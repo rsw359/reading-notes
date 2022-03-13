@@ -4,7 +4,7 @@ title: "Reading Notes"
 perma301-noats/class-01: /
 -->
 
-# The purpose of this site is to document knowledge gained throughout the Code Fellows courses. This will include reading-notes, code snippets, project notes, and general musings
+# The purpose of this site is to document knowledge gained from the reading assignments throughout the Code Fellows courses
 
 ## Contents
   
