@@ -43,47 +43,47 @@ permareading-notes/301-noats/class-01: /reading-notes/
 * Chapter 12: “Text” (pp.264-299)
 * Jpg vs Png vs Gif
 
-### Daily Reading Assignment 6[Assignment 6](reading-notes/201-noats/class-06.md)
+### Daily Reading Assignment 6 [Assignment 6](reading-notes/201-noats/class-06.md)
 
 * Chapter 3: “Object Literals” (pp.100-105)
 * Chapter 5: “Document Object Model” (pp.183-242)
 * What’s the difference between primitive values and object references in JavaScript?
 
-### Daily Reading Assignment 7[Assignment 7](reading-notes/201-noats/class-07.md)
+### Daily Reading Assignment 7 [Assignment 7](reading-notes/201-noats/class-07.md)
 
 * HTML Chapter 6: “Tables” (pp.126-145)
 * Js Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 
-### Daily Reading Assignment 8[Assignment 8](reading-notes/201-noats/class-08.md)
+### Daily Reading Assignment 8 [Assignment 8](reading-notes/201-noats/class-08.md)
 
 * CSS Layout + Reread of Html/CSS Chapter 15
 
-### Daily Reading Assignment 9[Assignment 9](reading-notes/201-noats/class-09.md)
+### Daily Reading Assignment 9 [Assignment 9](reading-notes/201-noats/class-09.md)
 
 * Html/CSS: Chapter 7: “Forms” (p.144-175)
 * Chapter 14: “Lists, Tables & Forms” (pp.330-357)
 * JS: Chapter 6: “Events” (pp.243-292)
 
-### Daily Reading Assignment 10[Assignment 10](reading-notes/201-noats/class-10.md)
+### Daily Reading Assignment 10 [Assignment 10](reading-notes/201-noats/class-10.md)
 
 * Javascript/Jquery: Chapter 10: Debugging
 
-### Daily Reading Assignment 11[Assignment 11](reading-notes/201-noats/class-11.md)
+### Daily Reading Assignment 11 [Assignment 11](reading-notes/201-noats/class-11.md)
 
 * Chapter 16: “Images” (pp.406-427)
 * Chapter 19: “Practical Information” (476-492)
 
-### Daily Reading Assignment 12[Assignment 12](reading-notes/201-noats/class-12.md)
+### Daily Reading Assignment 12 [Assignment 12](reading-notes/201-noats/class-12.md)
 
 * Charts
 
-### Daily Reading Assignment 13[Assignment 13](reading-notes/201-noats/class-13.md)
+### Daily Reading Assignment 13 [Assignment 13](reading-notes/201-noats/class-13.md)
 
 * Local Storage
 
-### Daily Reading Assignment 14[Assignment 14](reading-notes/201-noats/class-14.md)
+### Daily Reading Assignment 14 [Assignment 14](reading-notes/201-noats/class-14.md)
 
-### Daily Reading Assignment 14b[Assignment 14b](reading-notes/201-noats/class-14b.md)
+### Daily Reading Assignment 14b [Assignment 14b](reading-notes/201-noats/class-14b.md)
 
 * CSS Transitions and Animations
 * Google and Psycological Safety
