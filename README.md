@@ -10,7 +10,7 @@ permalink: /reading-notes/
   
 ## ***Code 201 Reading Notes***
   
-  Daily Reading [Assignment 1](201%20noats/class-01.md)
+  Daily Reading [Assignment 1](201-noats/class-01.md)
   
 * Introduction (pp.2-11)
 * HTML Chapter 1: “Structure” (pp.12-39)
@@ -93,21 +93,21 @@ permalink: /reading-notes/
 
 ## ***Code 301 Reading Notes***
 
-Daily Reading [Assignment 1](link)
-Daily Reading [Assignment 2](link)
-Daily Reading [Assignment 3](link)
-Daily Reading [Assignment 4](link)
-Daily Reading [Assignment 5](link)
-Daily Reading [Assignment 6](link)
-Daily Reading [Assignment 7](link)
-Daily Reading [Assignment 8](link)
-Daily Reading [Assignment 9](link)
-Daily Reading [Assignment 10](link)
-Daily Reading [Assignment 11](link)
-Daily Reading [Assignment 12](link)
-Daily Reading [Assignment 13](link)
-Daily Reading [Assignment 14](link)
-Daily Reading [Assignment 15](link)
-Daily Reading [Assignment 16](link)
-Daily Reading [Assignment 1](link)
-Daily Reading [Assignment 1](link)
+   Daily Reading [Assignment 1](link)
+   Daily Reading [Assignment 2](link)
+   Daily Reading [Assignment 3](link)
+   Daily Reading [Assignment 4](link)
+   Daily Reading [Assignment 5](link)
+   Daily Reading [Assignment 6](link)
+   Daily Reading [Assignment 7](link)
+   Daily Reading [Assignment 8](link)
+   Daily Reading [Assignment 9](link)
+   Daily Reading [Assignment 10](link)
+   Daily Reading [Assignment 11](link)
+   Daily Reading [Assignment 12](link)
+   Daily Reading [Assignment 13](link)
+   Daily Reading [Assignment 14](link)
+   Daily Reading [Assignment 15](link)
+   Daily Reading [Assignment 16](link)
+   Daily Reading [Assignment 1](link)
+   Daily Reading [Assignment 1](link)
