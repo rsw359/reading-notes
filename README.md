@@ -8,7 +8,7 @@ permareading-notes/301-noats/class-01: /reading-notes/
 
 ## Contents
   
-## ***Code 201 Reading Notes***
+## ***Code 201 Foundations of Software Development***
   
 ### Daily Reading [Assignment 1](reading-notes/201-noats/class-01.md)
   
@@ -88,9 +88,12 @@ permareading-notes/301-noats/class-01: /reading-notes/
 * CSS Transitions and Animations
 * Google and Psycological Safety
 
-## ***Code 301 Reading Notes***
+## ***Code 301 Intermediate Software Development***
 
 ### Daily Reading [Assignment 1](reading-notes/301-noats/class-01)
+
+* Component Based Architecture
+* Props and their use in React
 
 ### Daily Reading [Assignment 2](reading-notes/301-noats/class-01)
 
@@ -121,3 +124,5 @@ permareading-notes/301-noats/class-01: /reading-notes/
 ### Daily Reading [Assignment 15](reading-notes/301-noats/class-01)
 
 ### Daily Reading [Assignment 16](reading-notes/301-noats/class-01)
+
+## ***Code 401 Advanced Software Development***
