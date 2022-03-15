@@ -95,7 +95,10 @@ perma301-noats/class-01: /
 * Component Based Architecture
 * Props and their use in React
 
-### Daily Reading [Assignment 2](301-noats/class-01)
+### Daily Reading [Assignment 2](301-noats/class-02)
+
+* React Lifecycles
+* React State vs Props
 
 ### Daily Reading [Assignment 3](301-noats/class-01)
 
