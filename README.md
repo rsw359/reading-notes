@@ -102,6 +102,10 @@ perma301-noats/class-01: /
 
 ### Daily Reading [Assignment 3](301-noats/class-01)
 
+* React Lists and Keys
+* The Spread Operator
+* Passing Functions Between Components
+
 ### Daily Reading [Assignment 4](301-noats/class-01)
 
 ### Daily Reading [Assignment 5](301-noats/class-01)

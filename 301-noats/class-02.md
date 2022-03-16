@@ -1,4 +1,4 @@
-# Class 01 *Reading Notes*
+# Class 02 *Reading Notes*
 
 ## React Lifecycle
 
