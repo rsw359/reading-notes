@@ -108,6 +108,9 @@ perma301-noats/class-01: /
 
 ### Daily Reading [Assignment 4](301-noats/class-01)
 
+* React Forms
+* The Conditional (Ternary) Operator
+
 ### Daily Reading [Assignment 5](301-noats/class-01)
 
 ### Daily Reading [Assignment 6](301-noats/class-01)
