@@ -113,6 +113,9 @@ perma301-noats/class-01: /
 
 ### Daily Reading [Assignment 5](301-noats/class-01)
 
+* Thinking in React
+* Higher Order Functions
+
 ### Daily Reading [Assignment 6](301-noats/class-01)
 
 ### Daily Reading [Assignment 7](301-noats/class-01)
