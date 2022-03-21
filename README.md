@@ -116,7 +116,10 @@ perma301-noats/class-01: /
 * Thinking in React
 * Higher Order Functions
 
-### Daily Reading [Assignment 6](301-noats/class-01)
+### Daily Reading [Assignment 6](301-noats/class-06)
+
+* Node.js
+* Pair Programming
 
 ### Daily Reading [Assignment 7](301-noats/class-01)
 
