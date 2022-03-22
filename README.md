@@ -121,7 +121,10 @@ perma301-noats/class-01: /
 * Node.js
 * Pair Programming
 
-### Daily Reading [Assignment 7](301-noats/class-01)
+### Daily Reading [Assignment 7](301-noats/class-07)
+
+* Roy Ayers
+* Api keys
 
 ### Daily Reading [Assignment 8](301-noats/class-01)
 
