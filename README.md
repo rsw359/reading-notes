@@ -126,7 +126,9 @@ perma301-noats/class-01: /
 * Roy Ayers
 * Api keys
 
-### Daily Reading [Assignment 8](301-noats/class-01)
+### Daily Reading [Assignment 8](301-noats/class-08)
+
+* Rest
 
 ### Daily Reading [Assignment 9](301-noats/class-01)
 
