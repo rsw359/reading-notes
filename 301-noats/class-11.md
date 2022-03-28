@@ -36,7 +36,9 @@ Which type of database is best for hierarchical data storage?
 
 Which type of database is best for scalability?
 
-- Seems like NoSQL databases are best for scalability
+- NoSQL databases are best for scalability
+
+## *SQL vs NoSQL video*
 
 What does SQL stand for?
 
