@@ -134,7 +134,9 @@ perma301-noats/class-01: /
 
 ### Daily Reading [Assignment 10](301-noats/class-01)
 
-### Daily Reading [Assignment 11](301-noats/class-01)
+### Daily Reading [Assignment 11](301-noats/class-11)
+
+* SQL and NoSQL
 
 ### Daily Reading [Assignment 12](301-noats/class-01)
 
