@@ -37,3 +37,40 @@ Which type of database is best for hierarchical data storage?
 Which type of database is best for scalability?
 
 - Seems like NoSQL databases are best for scalability
+
+What does SQL stand for?
+
+- Structured query language
+
+What is a relational database?
+
+- A relational database is a database which supports SQL and stores data in related tables. The tables conform to a specific schema that contains tagged fields
+
+What type of structure does a relational database work with?k
+
+- A relational database works with tables with fields that are related
+
+What is a ‘schema’?
+
+- The requirements for querying data
+
+What is a NoSQL database?
+
+- A NoSQL database that stores data in a more efficient way than an SQL database
+
+How does it work?
+
+- It works using collections instead of tables. The collections dont use a schema
+
+What is inside of a Mongo database?
+
+- A nontabular collection of documents that can contain different fields
+
+Which is more flexible - SQL or MongoDB? and why.
+
+- NoSQL is more flexible. You can store data of different types in the same collection due to their being no implied schema
+
+What is the disadvantage of a NoSQL database?
+
+- One downside is that you can have duplicate data that needs to be updated in multiple places when changes are made.
+- Another downside is that the data formats can be unpredictable
