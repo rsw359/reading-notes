@@ -138,7 +138,9 @@ perma301-noats/class-01: /
 
 * SQL and NoSQL
 
-### Daily Reading [Assignment 12](301-noats/class-01)
+### Daily Reading [Assignment 12](301-noats/class-12)
+
+* Error Codes
 
 ### Daily Reading [Assignment 13](301-noats/class-01)
 
