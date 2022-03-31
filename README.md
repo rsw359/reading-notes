@@ -146,7 +146,9 @@ perma301-noats/class-01: /
 
 * CRUD
 
-### Daily Reading [Assignment 14](301-noats/class-01)
+### Daily Reading [Assignment 14](301-noats/class-14)
+
+* Diversity
 
 ### Daily Reading [Assignment 15](301-noats/class-01)
 
