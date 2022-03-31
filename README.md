@@ -142,7 +142,9 @@ perma301-noats/class-01: /
 
 * Error Codes
 
-### Daily Reading [Assignment 13](301-noats/class-01)
+### Daily Reading [Assignment 13](301-noats/class-13)
+
+* CRUD
 
 ### Daily Reading [Assignment 14](301-noats/class-01)
 
