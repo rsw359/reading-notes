@@ -155,3 +155,45 @@ perma301-noats/class-01: /
 ### Daily Reading [Assignment 16](301-noats/class-01)
 
 ## ***Code 401 Advanced Software Development***
+
+### Daily Reading [Assignment 1]
+
+### Daily Reading [Assignment 2]
+
+### Daily Reading [Assignment 3]
+
+### Daily Reading [Assignment 4]
+
+### Daily Reading [Assignment 5]
+
+### Daily Reading [Assignment 6]
+
+### Daily Reading [Assignment 7]
+
+### Daily Reading [Assignment 8]
+
+### Daily Reading [Assignment 9]
+
+### Daily Reading [Assignment 10]
+
+### Daily Reading [Assignment 11]
+
+### Daily Reading [Assignment 12]
+
+### Daily Reading [Assignment 13]
+
+### Daily Reading [Assignment 14]
+
+### Daily Reading [Assignment 15]
+
+### Daily Reading [Assignment 16]
+
+### Daily Reading [Assignment 17]
+
+### Daily Reading [Assignment 18]
+
+### Daily Reading [Assignment 19]
+
+### Daily Reading [Assignment 20]
+
+### Daily Reading [Assignment 21]
