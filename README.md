@@ -156,7 +156,9 @@ perma301-noats/class-01: /
 
 ## ***Code 401 Advanced Software Development***
 
-### Daily Reading [Assignment 1]
+### The Command Line [Assignment 00](401-noats/TheCommandLine)
+
+### Daily Reading [Assignment 1](401-noats/class-01)
 
 ### Daily Reading [Assignment 2]
 
