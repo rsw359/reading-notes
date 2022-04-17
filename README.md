@@ -158,7 +158,7 @@ perma301-noats/class-01: /
 
 ### The Command Line [Assignment 00](401-noats/TheCommandLine)
 
-### SQL [Assignment 000](401-noats/TheCommandLine)
+### SQL [Assignment 000](401-noats/SQL)
 
 ### Daily Reading [Assignment 1](401-noats/SQL)
 
