@@ -23,9 +23,9 @@ Paths
 - **.** (dot) - This is a reference to the current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents
 - **..** (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path Macbook/roger you could run the command ls ../../ and this would do a listing of the root directory.
 
- **cd**
+   **cd**
 
-- Change Directory- cd followed by a path moves to the specified dir. CD on its own will move to the root directory
+- Change Directory - cd followed by a path moves to the specified dir. CD on its own will move to the root directory
 
 ## Everything is a File
 
