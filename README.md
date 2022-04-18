@@ -162,7 +162,7 @@ perma301-noats/class-01: /
 
 ### The Growth Mindset [Pre-work Assignment 03](401-noats/GrowthMindset)
 
-### Daily Reading [Assignment 1](401-noats/SQL)
+### Daily Reading [Assignment 1](401-noats/class-01)
 
 ### Daily Reading [Assignment 2]
 
