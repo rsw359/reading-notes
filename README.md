@@ -156,9 +156,11 @@ perma301-noats/class-01: /
 
 ## ***Code 401 Advanced Software Development***
 
-### The Command Line [Assignment 00](401-noats/TheCommandLine)
+### The Command Line [Pre-work Assignment 01](401-noats/TheCommandLine)
 
-### SQL [Assignment 000](401-noats/SQL)
+### SQL [Pre-work Assignment 02](401-noats/SQL)
+
+### The Growth Mindset [Pre-work Assignment 03](401-noats/GrowthMindset)
 
 ### Daily Reading [Assignment 1](401-noats/SQL)
 
