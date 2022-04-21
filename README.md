@@ -168,7 +168,7 @@ perma301-noats/class-01: /
 
 ### Daily Reading [Assignment 3](401-noats/class-03)
 
-### Daily Reading [Assignment 4]
+### Daily Reading [Assignment 4](401-noats/class-04)
 
 ### Daily Reading [Assignment 5]
 
