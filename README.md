@@ -170,9 +170,7 @@ perma301-noats/class-01: /
 
 ### Daily Reading [Assignment 4](401-noats/class-04)
 
-### Daily Reading [Assignment 5]
-
-### Daily Reading [Assignment 6]
+### Daily Reading [Assignment 6](401-noats/class-06)
 
 ### Daily Reading [Assignment 7]
 
