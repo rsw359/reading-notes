@@ -182,7 +182,7 @@ perma301-noats/class-01: /
 
 ### Daily Reading [Assignment 11](401-noats/class-11)
 
-### Daily Reading [Assignment 12]
+### Daily Reading [Assignment 12](401-noats/Class-12)
 
 ### Daily Reading [Assignment 13]
 
