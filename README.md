@@ -184,9 +184,9 @@ perma301-noats/class-01: /
 
 ### Daily Reading [Assignment 12](401-noats/Class-12)
 
-### Daily Reading [Assignment 13]
+### Daily Reading [Assignment 13](401-noats/class-13)
 
-### Daily Reading [Assignment 14]
+### Daily Reading [Assignment 14](401-noats/class-14)
 
 ### Daily Reading [Assignment 15]
 
