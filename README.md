@@ -194,7 +194,7 @@ perma301-noats/class-01: /
 
 ### Daily Reading [Assignment 17](401-noats/class-17)
 
-### Daily Reading [Assignment 18]
+### Daily Reading [Assignment 18](401-noats/class-18)
 
 ### Daily Reading [Assignment 19]
 
