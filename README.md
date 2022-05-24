@@ -200,4 +200,4 @@ perma301-noats/class-01: /
 
 ### Daily Reading [Assignment 26](401-noats/class-26)
 
-### Daily Reading [Assignment 21]
+### Daily Reading [Assignment 27](401-noats/class-27)
