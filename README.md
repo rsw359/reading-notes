@@ -202,6 +202,12 @@ perma301-noats/class-01: /
 
 ### Daily Reading [Assignment 27](401-noats/class-27)
 
-### Daily Reading [Assignment 27](401-noats/class-28)
+### Daily Reading [Assignment 28](401-noats/class-28)
 
-### Daily Reading [Assignment 27](401-noats/class-29)
+### Daily Reading [Assignment 28](401-noats/class-29)
+
+### Daily Reading [Assignment 31](401-noats/class-30)
+
+### Daily Reading [Assignment 31](401-noats/class-31)
+
+### Daily Reading [Assignment 31](401-noats/class-32)
